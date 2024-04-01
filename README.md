@@ -1,12 +1,8 @@
 <div align=center><img src="https://hw-universal.oss-cn-beijing.aliyuncs.com/code.gif" style="zoom: 60%;" /></div>
 
 <p align="center">
-  <a href="#-仓库概述">🎉仓库概述</a> •
-  <a href="#-methods-reproduced">🌟项目内容</a> •
-  <!-- <a href="#-reproduced-results">📝Reproduced Results</a> <br />
-  <a href="#%EF%B8%8F-how-to-use">☄️How to Use</a> •
-  <a href="#-acknowledgments">👨‍🏫Acknowledgments</a> •
-  <a href="#-contact">🤗Contact</a> -->
+  <a href="#-仓库概述">🎉仓库概述</a> 
+  <a href="#-acknowledgments">👨‍🏫Acknowledgments</a>
 </p>
 
 ---
@@ -19,12 +15,10 @@
 
 ## 🎉 仓库概述
 
-## 🌟 项目内容
-
-<!-- ## 📝 Reproduced Results
-
-## ☄️ How to Use
+本仓库是 PyTorch 学习笔记代码部分，笔记内容[PyTorch](https://www.hwzhao.cn/note/pytorch/)。
 
 ## 👨‍🏫 Acknowledgments
+- [PyTorch 学习笔记](https://pytorch.zhangxiann.com/)
+- [PyTorch 官方文档](https://pytorch.org/docs/stable/index.html)
+- https://github.com/datawhalechina/thorough-pytorch
 
-## 🤗 Contact -->
