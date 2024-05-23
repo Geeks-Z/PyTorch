@@ -18,7 +18,7 @@
 本仓库是 PyTorch 学习笔记代码部分，笔记内容[PyTorch](https://www.hwzhao.cn/note/pytorch/)。
 
 ## 👨‍🏫 Acknowledgments
+
 - [PyTorch 学习笔记](https://pytorch.zhangxiann.com/)
 - [PyTorch 官方文档](https://pytorch.org/docs/stable/index.html)
 - https://github.com/datawhalechina/thorough-pytorch
-
